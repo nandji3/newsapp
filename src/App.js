@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
 
 export class App extends Component {
-  pageSize = 5;
+  pageSize = 6;
   render() {
     return (
       <Router>
